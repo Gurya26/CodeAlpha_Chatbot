@@ -18,7 +18,7 @@ This project is a FAQ-based AI chatbot built using Flask and Machine Learning te
 
 ## 🔗 Live Demo
 
-[https://chatbot-website-5.onrender.com/](https://codealpha-chatbot-iydj.onrender.com/)
+https://codealpha-chatbot-iydj.onrender.com/
 
 ## 📌 How it Works
 

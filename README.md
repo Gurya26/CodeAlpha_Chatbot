@@ -52,5 +52,6 @@ http://127.0.0.1:5000/
 
 CodeAlpha AI Internship - Task 2 (Chatbot for FAQs)
 
-<img width="553" height="788" alt="image" src="https://github.com/user-attachments/assets/29d66920-960f-40f6-bf4c-1a4bf7a9c35f" />
+<img width="545" height="769" alt="image" src="https://github.com/user-attachments/assets/4a4e6c1f-7d2e-4419-a66c-14a7e3c8868b" />
+
 
